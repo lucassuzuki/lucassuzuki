@@ -1,10 +1,4 @@
 
-<div style="display: flex; align-items: center;">
-    <img src="https://avatars.githubusercontent.com/u/100249233?v=4" alt="Foto de Perfil" style="padding-bottom: 10px; width: 100px; height: auto; margin-right: 10px;">
-    <span style="font-size: 40px; font-weight: bold;">Lucas Suzuki</span>
-    <br><br><br><br>
-</div>
-
 Olá, meu nome é Lucas Suzuki e sou **estudante de Analise e Desenvolvimento de Sistemas**.
 
 Estou no início da minha jornada profissional e ansioso para contribuir com minha energia e conhecimento no campo da inovação.
@@ -17,8 +11,8 @@ Estou aberto a oportunidades de **estágio ou posições de entry-level na área
 
 ## Conecte-se Comigo!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gray?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucas-suzuki-26932a168/)
-[![Instagram](https://img.shields.io/badge/Instagram-gray?style=for-the-badge&logo=Instagram)](https://www.instagram.com/lucas.suzuki_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0964c0?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucas-suzuki-26932a168/)
+[![Instagram](https://img.shields.io/badge/Instagram-f0495e?style=for-the-badge&logo=white)](https://www.instagram.com/lucas.suzuki_/)
 [![GitHub](https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=Github)](https://github.com/lucassuzuki)
 
 ## Habilidades
