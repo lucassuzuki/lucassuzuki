@@ -12,7 +12,7 @@ Estou aberto a oportunidades de **estágio ou posições de entry-level na área
 ## Conecte-se Comigo!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0964c0?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucas-suzuki-26932a168/)
-[![Instagram](https://img.shields.io/badge/Instagram-f0495e?style=for-the-badge&logo=white)](https://www.instagram.com/lucas.suzuki_/)
+[![Instagram](https://img.shields.io/badge/Instagram-f0495e?style=for-the-badge&logo=instagram&logoColor=FFF)](https://www.instagram.com/lucas.suzuki_/)
 [![GitHub](https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=Github)](https://github.com/lucassuzuki)
 
 ## Habilidades
